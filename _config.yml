@@ -1,7 +1,7 @@
-# In _config.yml
-# theme: minima
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 minima:
-  skin: dark
+  skin: solarized-dark
+title: BasedBiohacks
+description: Sedare Dolorem Divinum Opus Est
